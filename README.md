@@ -14,5 +14,6 @@ Nestes projeto será abordado o gerenciamento de versões utilizando tags, além de
  6. Cite pelo menos 3 ferramentas de controle de versão e faça um breve detalhamento sobre cada uma delas.
  
 **O que é o Git?**
+
 Git é uma plataforma que facilita o desenvolvimento de projetos em equipe desenvolvida em 2005 por Linus Torvalds inicialmente para criação do Kernel Linux. Cada repositório Git é um nó em uma rede descentralizada e diferentes nós que podem se comunicar na rede e também pode ser armazenado em um repositório local ou de forma remota utilizando algumas das plataformas online, como é o caso do Github. O Github por sua vez, pode ser considerado como uma rede social para desenvolvedores de software, porém, nada impede que seja utilizado por outras áreas, pois, podemos utilizar o Git para diversos fins e não somente par armazenar código fonte ou projetos, podemos utilizar para qualquer tipo de mídia. 
 
