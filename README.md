@@ -37,3 +37,17 @@ Termos um controle de versão no desenvolvimento de software, é de extrema import
 **Modelo em HTML**
 
 Para executar o modelo da documentação em formato em html, basta executar o arquivo index.html localizado na pasta ./src/html.
+
+**Modelo em utilizando Angular**
+
+Para executar o modelo da documentação em formato em Angular, siga passos abaixo:
+
+ 1. Abra o Console ou Prompt de comandos do seu sistema operacional
+ 2. Posicione na pasta **src/help** onde os fontes foram baixados.
+ 3. Execute o comando `npm install` para instalar os pacotes do projeto
+ 4. Execute o comando `npm start` para iniciar o servidor local para possibilitar o teste da aplicação pelo navegador.
+ 5. Abra o navegador e digite a url [http://localhost:4200](http://localhost:4200/) para inciar o projeto
+
+> **Importante:**
+> 
+Para executar o modelo Angular, é imprescindível antes ter o **angular-cli** instalado bem como o **NodeJS**, caso não tenha, para instalar o **node** acesse a página [https://nodejs.org](https://nodejs.org) para baixar o instalador de acordo com seu sistema operacional, depois instale o **angular-cli** acessando o site [https://angular.io/guide/setup-local](https://angular.io/guide/setup-local) e siga os passos indicados pela documentação do **Angular**
